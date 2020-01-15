@@ -14,6 +14,7 @@ public class Student {
     private String name;
     private double GPA;
     private String eMail;
+    private int ID;
 
     public String geteMail() {
         return eMail;
